@@ -1,6 +1,12 @@
-## Hi there 👋
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=10000&color=082264&width=435&lines=Hi+there%2C+I'm+Masha+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=10000&color=3972CD&center=true&width=435&lines=%3E+Junior+Kotlin+developer" alt="Typing SVG" /></a>
+</h2>
+
 
 <!--
+#082264FF
+
 **PlaceboAddict/PlaceboAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
