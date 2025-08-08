@@ -4,8 +4,25 @@
 </h2>
 
 
+
+<div align="center" id="badges">
+  <a href="https://t.me/suspiciousplacebo">
+    <img src="https://github.com/user-attachments/assets/ba617052-ba28-4ddb-ae96-7796906df4ee" width="40" alt="Telegram Badge"/>
+  </a>&nbsp;
+  <a href="https://vk.com/suspiciousplacebo">
+    <img src="https://github.com/user-attachments/assets/f0de167d-b515-4846-8cde-db7e35886d63"  width="40" alt="VK Badge"/>
+  </a>&nbsp;
+  <a href="mailto:suspiciousplacebo@gmail.com">
+    <img src="https://github.com/user-attachments/assets/748a3070-4734-4ad6-bfcf-b2593c5567ef"  width="40" alt="Gmail Badge"/>
+  </a>
+</div>
+
+
+
+
 <!--
 #082264FF
+![gmail-svgrepo-com](https://github.com/user-attachments/assets/a23c0dbe-c37f-4d5b-ac6f-cb3d485467d3)
 
 **PlaceboAddict/PlaceboAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +36,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Google Gmail SVG Icon](https://github.com/user-attachments/assets/748a3070-4734-4ad6-bfcf-b2593c5567ef)
+![VKLogo](https://github.com/user-attachments/assets/f0de167d-b515-4846-8cde-db7e35886d63)
+![telegram](https://github.com/user-attachments/assets/ba617052-ba28-4ddb-ae96-7796906df4ee)
 -->
