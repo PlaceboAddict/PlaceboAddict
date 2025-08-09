@@ -7,13 +7,13 @@
 
 <div align="center" id="badges">
   <a href="https://t.me/suspiciousplacebo">
-    <img src="https://github.com/user-attachments/assets/ba617052-ba28-4ddb-ae96-7796906df4ee" width="30" alt="Telegram Badge"/>
-  </a>&nbsp;
+    <img src="https://github.com/user-attachments/assets/ba617052-ba28-4ddb-ae96-7796906df4ee" width="45" alt="Telegram Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/suspiciousplacebo">
-    <img src="https://github.com/user-attachments/assets/f0de167d-b515-4846-8cde-db7e35886d63"  width="30" alt="VK Badge"/>
-  </a>&nbsp;
+    <img src="https://github.com/user-attachments/assets/f0de167d-b515-4846-8cde-db7e35886d63"  width="45" alt="VK Badge"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:suspiciousplacebo@gmail.com">
-    <img src="https://github.com/user-attachments/assets/748a3070-4734-4ad6-bfcf-b2593c5567ef"  width="30" alt="Gmail Badge"/>
+    <img src="https://github.com/user-attachments/assets/748a3070-4734-4ad6-bfcf-b2593c5567ef"  width="45" alt="Gmail Badge"/>
   </a>
 </div>
 
@@ -47,13 +47,23 @@
 
 ### 🐳 My projects
 
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlaceboAddict&repo=kotlin-multiplatform-libsodium
 )](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
+-->
+ #### **1. Kotlin-multiplatform-libdosium 🧂** [click to watch](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
+Role: Kotlin developer (Team project with @Firebearded)
+- Developed the Wasm/JS platform based on JS bindings
+- Worked with experimental technologies (Wasm/JS was still in active development, so some features were unstable or missing)
+- Conducted platform testing and debugging
+- Published builds for macOS, Linux, and Windows on Gitea and GitHub
+- Wrote technical documentation
 
-- 🧂 My biggest project at the current moment. It's a wrapper to a Kotlin Multiplatform around Iospin's Libsodium cryptography library. I made Wasm/Js and published it for Mac, Windows and Linux.
+
 
 Soon there will be more~
+
+
 
 
 <!--
