@@ -59,7 +59,13 @@ Role: Kotlin developer (Team project with @Firebearded)
 - Published builds for macOS, Linux, and Windows on Gitea and GitHub
 - Wrote technical documentation
 
-
+#### **2. B+-Tree 🍃**
+Role: Kotlin developer (Work project & diploma thesis)
+- Implemented a B+-tree algorithm from scratch in Kotlin
+- Designed with generics to support any ```Comparable<K>``` keys
+- Handled edge cases in node splitting/merging
+- Developed comprehensive Unit-tests (JUnit)
+- Wrote technical documentation
 
 Soon there will be more~
 
