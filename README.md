@@ -19,6 +19,11 @@
 
 [English version](https://github.com/PlaceboAddict/PlaceboAddict/blob/main/README_EN.md)
 
+### Образование: МГТУ им. Н.Э. Баумана (2020-2024)
+Космический факультет, кафедра "Прикладная математика, информатика и вычислительная техника"
+
+
+
 ### ⚡ Мой стек
 * Kotlin Multiplatform
 * SQL (PostgreSQL)
