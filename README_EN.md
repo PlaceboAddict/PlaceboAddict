@@ -17,6 +17,12 @@
   </a>
 </div>
 
+[Russian version](https://github.com/PlaceboAddict/PlaceboAddict/blob/main/README.md)
+
+### Education: Bauman Moscow State Technical University (2020-2024)
+Space faculty, department of "Applied mathematics, informatics and computer engineering"
+
+
 
 
 ### ⚡ My stack
@@ -51,23 +57,31 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlaceboAddict&repo=kotlin-multiplatform-libsodium
 )](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
 -->
- #### **1. Kotlin-multiplatform-libdosium 🧂** [click to watch](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
-Role: Kotlin developer (Team project with @Firebearded)
-- Developed the Wasm/JS platform based on JS bindings
+ #### **1. Kotlin-multiplatform-libdosium 🧂** (Kotlin) [click to watch](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
+Made for [8RAYSDEV](https://8-rays.dev/). Role: Kotlin developer (Team project with @Firebearded)
+- Implemented bindings for the Wasm/Js platform
 - Worked with experimental technologies (Wasm/JS was still in active development, so some features were unstable or missing)
 - Conducted platform testing and debugging
 - Published builds for macOS, Linux, and Windows on Gitea and GitHub
 - Wrote technical documentation
 
-#### **2. B+-Tree 🍃**
+#### **2. B+-Tree Multiplatform Library 🍃 (Kotlin)**
 Role: Kotlin developer (Work project & diploma thesis)
-- Implemented a B+-tree algorithm from scratch in Kotlin
-- Designed with generics to support any ```Comparable<K>``` keys
+- Implemented a data storage system as a multi-platform library in key-value format based on the B+-tree structure in Kotlin
+- Designed with generics to support any ```K: Comparable<K>``` keys
 - Handled edge cases in node splitting/merging
 - Developed comprehensive Unit-tests (JUnit)
 - Wrote technical documentation
 
-Soon there will be more~
+#### **3. Calculator "Bystritsa-2" 💾** (HTML, CSS, JS) [click to watch](https://github.com/PlaceboAddict/Bystritsa-2) 
+University coursework: creating a web emulator of a Soviet calculator from the 1960s
+- Manually cut out all the elements from a photo of a real calculator
+- Created markup using HTML and CSS
+- Implemented logic in JavaScript
+
+
+
+<br>Soon there will be more~
 
 
 
