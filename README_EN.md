@@ -50,6 +50,13 @@ Space faculty, department of "Applied mathematics, informatics and computer engi
 </details>
 
 
+### 💼 Work experience
+ - [8RAYSDEV](https://8-rays.dev/) - Junior Developer Kotlin - Libsodium project - 4 months
+ - [8RAYSDEV](https://8-rays.dev/) - Kotlin Developer Intern - B+-tree project - 2 months
+
+<br>
+
+
 
 ### 🐳 My projects
 
