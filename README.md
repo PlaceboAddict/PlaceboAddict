@@ -17,20 +17,20 @@
   </a>
 </div>
 
+[English version](https://github.com/PlaceboAddict/PlaceboAddict/blob/main/README_EN.md)
 
-
-### ⚡ My stack
+### ⚡ Мой стек
 * Kotlin Multiplatform
 * SQL (PostgreSQL)
 * Git
-* Python (plus PyPlot and Pandas)
+* Python (PyPlot и Pandas)
 * C++
-<br>🌱 And I’m currently learning Kotlin for Android!
+<br>🌱 И сейчас я изучаю мобильную разработку на Kotlin
 
 
 
 <details>
-<summary><h3> 🔧 My tools</h3></summary>
+<summary><h3> 🔧 Мои инструменты</h3></summary>
 <div style="margin-left:100px" align="left" id="tools">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/3c8fb67b-73ab-4fc7-ac85-1dfce12464fe" width="50" alt="IntellijIDEA Badge"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/e09f33b0-c1f2-42ef-a5b1-34b1cdb6c8f7" width="50" alt="IntellijIDEA Badge"/>&nbsp;
@@ -44,32 +44,44 @@
 </details>
 
 
+### 💼 Опыт работы
+ - [8RAYSDEV](https://8-rays.dev/) - Junior-разработчик Kotlin - проект Libsodium - 4 месяца
+ - [8RAYSDEV](https://8-rays.dev/) - стажер-разработчик Kotlin - проект B+-дерево - 2 месяца
 
-### 🐳 My projects
+<br>
+
+
+### 🐳 Мои проекты
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PlaceboAddict&repo=kotlin-multiplatform-libsodium
 )](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
 -->
- #### **1. Kotlin-multiplatform-libdosium 🧂** [click to watch](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
-Role: Kotlin developer (Team project with @Firebearded)
-- Developed the Wasm/JS platform based on JS bindings
-- Worked with experimental technologies (Wasm/JS was still in active development, so some features were unstable or missing)
-- Conducted platform testing and debugging
-- Published builds for macOS, Linux, and Windows on Gitea and GitHub
-- Wrote technical documentation
+ #### **1. Kotlin-multiplatform-libdosium 🧂** (Kotlin) [есть на GitHub](https://github.com/PlaceboAddict/kotlin-multiplatform-libsodium)
+Сделан для [8RAYSDEV](https://8-rays.dev/)  (парный проект вместе с @Firebearded)
+- Реализовала платформу Wasm/Js с нуля на базе платформы Js
+- Работала с экспериментальными технологиями (Wasm/Js все еще находился в разработке и некоторых вещей на момент проекта не существовало)
+- Занималась тестировкой платформы
+- Опубликовала библиотеку для Windows, MacOS и Linux
+- Написала техническую документацию
 
-#### **2. B+-Tree 🍃**
-Role: Kotlin developer (Work project & diploma thesis)
-- Implemented a B+-tree algorithm from scratch in Kotlin
-- Designed with generics to support any ```Comparable<K>``` keys
-- Handled edge cases in node splitting/merging
-- Developed comprehensive Unit-tests (JUnit)
-- Wrote technical documentation
+#### **2. B+-Tree 🍃 (Kotlin)**
+Сольный проект для [8RAYSDEV](https://8-rays.dev/) и моя дипломная работа
+- Реализовала систему хранения данных в формате ключ-значения на основе структуры B+-дерева на Kotlin
+- Использовала дженерики для поддержки ключей любого сравниваемого типа: ```Comparable<K>``` 
+- Обработала краевые случаи с делением/слиянием узлов дерева
+- Создала полный набор Unit-тестов 
+- Написала техническую документацию
 
-Soon there will be more~
+#### **3. Калькулятор "Быстрица-2" 💾** (HTML, CSS, JS) [есть на GitHub](https://github.com/PlaceboAddict/Bystritsa-2) 
+Курсовая работа в университете: создание веб-эмулятора калькулятора 1960-х годов
+- Вручную вырезала все элементы с фото реального калькулятора
+- Создала разметку с помощью HTML и CSS
+- Реализовала логику на JavaScript 
 
 
+
+Дальше - больше~
 
 
 <!--
