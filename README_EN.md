@@ -27,11 +27,12 @@ Space faculty, department of "Applied mathematics, informatics and computer engi
 
 ### ⚡ My stack
 * Kotlin Multiplatform
+* Java & Spring Boot
 * SQL (PostgreSQL)
 * Git
 * Python (plus PyPlot and Pandas)
 * C++
-<br>🌱 And I’m currently learning Kotlin for Android!
+<br>🌱 And I’m currently learning microservices development!
 
 
 
@@ -56,7 +57,15 @@ Space faculty, department of "Applied mathematics, informatics and computer engi
 
 <br>
 
-
+### 💥 Hackathons
+#### Secret Guest Project for "Ostrovok!"
+- Developed an authentication microservice using Java and Spring Boot.
+- Technologies & Skills Applied:
+  * Secured user authentication with BCrypt password hashing;
+  * Integrated the microservice with a PostgreSQL database using Spring Data JPA;
+  * Performed comprehensive testing, including the use of mocks for service dependencies;
+  
+<br>
 
 ### 🐳 My projects
 
