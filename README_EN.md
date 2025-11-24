@@ -30,8 +30,8 @@ Space faculty, department of "Applied mathematics, informatics and computer engi
 * Java & Spring Boot
 * SQL (PostgreSQL)
 * Git
+* Docker & Nginx
 * Python (plus PyPlot and Pandas)
-* C++
 <br>🌱 And I’m currently learning microservices development!
 
 
@@ -89,7 +89,15 @@ Role: Kotlin developer (Work project & diploma thesis)
 - Developed comprehensive Unit-tests (JUnit)
 - Wrote technical documentation
 
-#### **3. Calculator "Bystritsa-2" 💾** (HTML, CSS, JS) [click to watch](https://github.com/PlaceboAddict/Bystritsa-2) 
+#### **3. DevOps Experience 🐳**
+Configured software, used the Linux command line, wrote scripts in Bash, worked with configuration files.
+- Deployed a console version of PostgreSQL, created databases, managed user permissions, and populated the database with synthetic data
+- Deployed a local (and in-container) FineBI server for data visualization from PostgreSQL and creating dashboards
+- Containerized PostgreSQL and FineBI using Docker Engine
+- Configured Nginx with upstream for network interactions between containers
+- Wrote Bash scripts for convenient startup of containers and the software inside them
+
+#### **4. Calculator "Bystritsa-2" 💾** (HTML, CSS, JS) [click to watch](https://github.com/PlaceboAddict/Bystritsa-2) 
 University coursework: creating a web emulator of a Soviet calculator from the 1960s
 - Manually cut out all the elements from a photo of a real calculator
 - Created markup using HTML and CSS
